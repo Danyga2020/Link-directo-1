@@ -1,4 +1,5 @@
 ﻿{
+  "repository":"https://github.com/Danyga2020/Link-directo",
   "name": "Direct Link",
   "description": "Este bot está creado para hacer los link directos de la uclv.",
   "env": {
